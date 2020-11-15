@@ -32,8 +32,8 @@ App da UberCare, uma solução desenvolvida, para o desafio da Uber, durante o M
 
 ## 📁 Repos
 
-- [Backend (api)](https://github.com/martnght12/uber-care-api) por [Vinicius](https://github.com/martnght12)
-- [Site (web)](https://github.com/martnght12/uber-care) por [Vinicius](https://github.com/martnght12)
+- [Backend (api)](https://github.com/martnght12/uber-care-api) por [Vinicius Victor](https://github.com/martnght12)
+- [Site (web)](https://github.com/martnght12/uber-care) por [Vinicius Victor](https://github.com/martnght12)
 - [Aplicativo (mobile)](https://github.com/IagoNobre/UberCare) 
 
 ## :memo: Licença
