@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="UberCare" title="UberCare" src=".src/logo.svg" width="20%" />
+    <img alt="UberCare" title="UberCare" src="./src/assets/logo.svg" width="10%" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="UberCare" src=".src/juliana.svg" width="60%">
+  <img alt="UberCare" src="./src/assets/juliana.svg" width="40%">
 </p>
 
 ## 🚀 Tecnologias
