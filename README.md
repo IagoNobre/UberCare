@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-repos">Repos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -28,6 +29,12 @@ Esse projeto foi desenvolvido com as tecnologias:
 ## 💻 Projeto
 
 App da UberCare, uma solução desenvolvida, para o desafio da Uber, durante o Mega Hack 5.0 da Shawee 🚀
+
+## 📁 Repos
+
+- [Backend (api)](https://github.com/martnght12/uber-care-api) por [Vinicius](https://github.com/martnght12)
+- [Site (web)](https://github.com/martnght12/uber-care) por [Vinicius](https://github.com/martnght12)
+- [Aplicativo (mobile)](https://github.com/IagoNobre/UberCare) 
 
 ## :memo: Licença
 
