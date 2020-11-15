@@ -25,6 +25,7 @@
   },
   "plugins": ["react", "react-hooks", "@typescript-eslint", "prettier"],
   "rules": {
+    "@typescript-eslint/no-explicit-any": "off",
     "global-require": "off",
     "no-use-before-define": "off",
     "react/jsx-one-expression-per-line": "off",
